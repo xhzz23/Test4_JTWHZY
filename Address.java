@@ -15,7 +15,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 public class Address {
-    private int user_id;
+    private  int user_id;
     private int address_id;
     private String detail;
 
